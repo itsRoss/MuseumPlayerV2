@@ -1,4 +1,4 @@
-## Museum player version 2.0
+# Museum player version 2.0
 
 Media player based on raspberry pi 4 board and programmed in python using python-vlc library.
 
