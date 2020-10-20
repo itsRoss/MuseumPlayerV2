@@ -1,4 +1,3 @@
-#!/usr/bin/bash
 from gipiozero import Button
 from vlc import EventType
 import time
