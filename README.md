@@ -16,7 +16,7 @@ When connected to the power the raspberry automatically runs the program after t
 ### Instructions for creating the player
 
 **Important!**
-Disable screensaver installig xscreensaver
+Disable screensaver installing xscreensaver
 
 **Autostart process:**
 

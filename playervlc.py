@@ -44,7 +44,6 @@ if __name__ == '__main__':
     media_list2 = player.set_media_list_new()
 
     #create media elements
-
     #loop video
     media1 = player.media_new("video.mp4")
     media_list.add_media(media1)
@@ -67,7 +66,7 @@ if __name__ == '__main__':
     #event end video reached
     event_manager = media_list_player.event_manager()
     event = vlc.EventType()
-    event_manager.event_attach(event:MediaPLayerEndReached, returnVideoLoop)
+    event_manager.event_attach(event.MediaPLayerEndReached, returnVideoLoop)
 
     while True:
         continue
