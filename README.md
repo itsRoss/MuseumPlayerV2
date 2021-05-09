@@ -35,13 +35,14 @@ Disable raspberry screensaver installing xscreensaver
    Name=Player
    Exec=/usr/bin/python /home/pi/player.py
 
+------
 
-**Script position for the player to run**
+### Script position for the player to run
 Place python script in -> **/home/pi/player.py**
 
-**How to remove the autostart**
+### How to remove the autostart
 If you want to remove the autostart delete **player.desktop** file -> path /home/pi/.config/autostart
 
-**Contributions and improvments**
+### Contributions and improvments
 Every contribution or suggestion is well accepted, the program was already tested and some bugs have already been resolved.
 
